@@ -5,7 +5,7 @@
 1. You need to have already installed VS Code with the PlatformIO extension
 2. Download this project zip file and unfip it and then open the project folder from VS code
 3. You need open "2_Get-Time-From-NTPClient-main" on VS code and then go to src->main.cpp file
-4. At the main.cpp file you will see this at line No25-No33
+4. At the main.cpp file you will see this at line No6-No8
 ```
 // Replace with your network credentials
 const char *ssid = "YOUR-WIFI-CONNECTION-NAME";
